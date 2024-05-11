@@ -11,12 +11,12 @@
 
 		<RelativePanel Width="400" Height="100" Background="Aquamarine" >
 			<Button Content="Button" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True"
-					RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignBottomWithPanel="True" />
+					RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignBottomWithPanel="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
 		</RelativePanel>
 
 		<RelativePanel Width="400" Height="100" Background="Aquamarine" Margin="0,20,0,0" >
 			<ComboBox RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True"
-					  RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignBottomWithPanel="True" />
+					  RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignBottomWithPanel="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
 		</RelativePanel>
 
 		<RelativePanel Width="400" Height="100" Background="Aquamarine" Margin="0,20,0,0" >
